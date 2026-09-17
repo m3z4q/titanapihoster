@@ -20,11 +20,11 @@ BOT_TOKEN = "8597162496:AAE_3tsHg_Cn-t31czK-zGT7_LGbO6hVAbM"
 ADMIN_ID = 8794321786
 
 # Force-sub channel. Set to "" to disable force-sub.
-FORCE_JOIN_CHANNEL = "@aurexkeng"
+FORCE_JOIN_CHANNEL = ""
 
 # Public base URL used for generated API packages.
 # Example: https://your-render-service.onrender.com
-HOSTER_BASE_URL = ""
+HOSTER_BASE_URL = "https://titanapihoster3.onrender.com"
 
 # Every hosted API URL is pinged every 5 minutes.
 KEEP_ALIVE_SECONDS = 300
